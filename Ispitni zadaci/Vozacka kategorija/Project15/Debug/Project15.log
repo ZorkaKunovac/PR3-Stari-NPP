@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Project15\Project15\Source.cpp(109,66): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\User\source\repos\Project15\Project15\Source.cpp(144,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Project15\Project15\Source.cpp(153,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Project15\Project15\Source.cpp(188,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Project15\Project15\Source.cpp(195,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\Project15\Project15\Source.cpp(200,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project15.vcxproj -> C:\Users\User\source\repos\Project15\Debug\Project15.exe
